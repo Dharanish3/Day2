@@ -7,7 +7,7 @@ Document Object  :
 2. Every HTML tag and element with an attribute is a component of the document.
 3. It is the window property's object.
 4. The document is included in both DOM and  BOM.
-5. A window similar to this one can also access properties of document objects like the title, body, cookies, etc. paper.title
+5. A window similar to this one can also access properties of document objects like the title, body, cookies, etc.
 
 
 
