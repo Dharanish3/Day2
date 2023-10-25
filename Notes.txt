@@ -1,0 +1,20 @@
+Write a blog on the Difference between document and window objects
+
+
+Document Object  :
+
+1. It load inside the window.
+2. Every HTML tag and element with an attribute is a component of the document.
+3. It is the window property's object.
+4. The document is included in both DOM and  BOM.
+5. A window similar to this one can also access properties of document objects like the title, body, cookies, etc. paper.title
+
+
+
+Window Object : 
+
+1. It  very first object that is loaded in the browser.
+2. The window object contains all of JavaScript's global objects, functions, and variables.
+3. It serves as the browser's object.
+4. The window is a part of BOM.
+5. The document object is unable to access the window object's properties.
